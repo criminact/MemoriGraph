@@ -43,5 +43,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Deployment guide (DEPLOYMENT.md)
 - Postman setup guide (POSTMAN_SETUP.md)
 
-[1.0.0]: https://github.com/yourusername/memorigraph/releases/tag/v1.0.0
+[1.0.0]: https://github.com/criminact/memorigraph/releases/tag/v1.0.0
 

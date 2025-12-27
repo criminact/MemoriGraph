@@ -80,7 +80,7 @@ The easiest way to get started:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/memorigraph.git
+git clone https://github.com/criminact/memorigraph.git
 cd memorigraph
 
 # Set up environment variables
@@ -195,7 +195,7 @@ print(memory)
 
 - **[FastAPI](https://fastapi.tiangolo.com/)** - Modern Python web framework
 - **[Neo4j](https://neo4j.com/)** - Graph database
-- **[Graphiti](https://github.com/yourusername/graphiti)** - Knowledge graph framework
+- **[Graphiti](https://github.com/criminact/graphiti)** - Knowledge graph framework
 - **[OpenAI](https://openai.com/)** - GPT-4 for entity extraction and embeddings
 - **[Docker](https://www.docker.com/)** - Containerization
 
@@ -215,14 +215,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Built with [Graphiti](https://github.com/yourusername/graphiti) for knowledge graph operations
+- Built with [Graphiti](https://github.com/criminact/graphiti) for knowledge graph operations
 - Inspired by the need for better AI memory systems
 - Community-driven development
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/memorigraph/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/memorigraph/discussions)
+- **Issues**: [GitHub Issues](https://github.com/criminact/memorigraph/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/criminact/memorigraph/discussions)
 - **Documentation**: See the [docs](API_README.md) folder
 
 ## 🌟 Use Cases
