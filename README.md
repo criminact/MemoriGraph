@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Built with [Graphiti](https://github.com/criminact/graphiti) for knowledge graph operations
+- Built with [Graphiti](https://github.com/getzep/graphiti) for knowledge graph operations
 - Inspired by the need for better AI memory systems
 - Community-driven development
 
