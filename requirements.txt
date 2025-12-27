@@ -1,0 +1,8 @@
+graphiti-core
+openai
+python-dotenv
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
