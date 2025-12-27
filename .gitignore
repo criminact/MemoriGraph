@@ -179,3 +179,9 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+API_README.md
+ARCHITECTURE.md
+Graphiti_API_Environment.postman_environment.json
+Graphiti_User_Profile_API.postman_collection.json
+POSTMAN_SETUP.md
+PRODUCT_HUNT.md
