@@ -194,7 +194,7 @@ print(memory)
 
 - **[FastAPI](https://fastapi.tiangolo.com/)** - Modern Python web framework
 - **[Neo4j](https://neo4j.com/)** - Graph database
-- **[Graphiti](https://github.com/criminact/graphiti)** - Knowledge graph framework
+- **[Graphiti](https://github.com/getzep/graphiti)** - Knowledge graph framework
 - **[OpenAI](https://openai.com/)** - GPT-4 for entity extraction and embeddings
 - **[Docker](https://www.docker.com/)** - Containerization
 
