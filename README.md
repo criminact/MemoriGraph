@@ -189,7 +189,6 @@ print(memory)
 - **[API Documentation](API_README.md)** - Complete API reference
 - **[Architecture Guide](ARCHITECTURE.md)** - System architecture and design
 - **[Deployment Guide](DEPLOYMENT.md)** - Production deployment instructions
-- **[Postman Setup](POSTMAN_SETUP.md)** - API testing with Postman
 
 ## 🛠️ Built With
 
