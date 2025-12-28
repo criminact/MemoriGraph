@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 
+<a href="https://www.producthunt.com/products/memorigraph?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-memorigraph" target="_blank" rel="noopener noreferrer"><img alt="MemoriGraph - Build AI with contextual memory using knowledge graphs. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1055151&amp;theme=light&amp;t=1766940532498"></a>
+
 **Build AI applications with persistent, contextual memory using knowledge graphs.**
 
 MemoriGraph is an open-source API that enables developers to add sophisticated memory capabilities to their AI applications. Built on Neo4j and Graphiti, it transforms unstructured conversations and interactions into a rich knowledge graph that evolves over time.
